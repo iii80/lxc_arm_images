@@ -1,4 +1,4 @@
-Wed Oct 14 03:59:37 UTC 2026
+Thu Oct 15 03:42:07 UTC 2026
 ------------------------------------------
 ubuntu_18.04_bionic_arm64_cloud.tar.xz
 ------------------------------------------
@@ -24,6 +24,10 @@ ubuntu_24.04_noble_arm64_cloud.tar.xz
 ------------------------------------------
 ubuntu_24.04_noble_arm64_default.tar.xz
 ------------------------------------------
+ubuntu_26.04_resolute_arm64_cloud.tar.xz
+------------------------------------------
+ubuntu_26.04_resolute_arm64_default.tar.xz
+------------------------------------------
 debian_10_buster_arm64_cloud.tar.xz
 ------------------------------------------
 debian_10_buster_arm64_default.tar.xz
@@ -44,6 +48,10 @@ kali_latest_kali-rolling_arm64_cloud.tar.xz
 ------------------------------------------
 kali_latest_kali-rolling_arm64_default.tar.xz
 ------------------------------------------
+centos_10_10-Stream_arm64_cloud.tar.xz
+------------------------------------------
+centos_10_10-Stream_arm64_default.tar.xz
+------------------------------------------
 centos_7_7_arm64_cloud.tar.xz
 ------------------------------------------
 centos_7_7_arm64_default.tar.xz
@@ -56,6 +64,10 @@ centos_9_9-Stream_arm64_cloud.tar.xz
 ------------------------------------------
 centos_9_9-Stream_arm64_default.tar.xz
 ------------------------------------------
+almalinux_10_10_arm64_cloud.tar.xz
+------------------------------------------
+almalinux_10_10_arm64_default.tar.xz
+------------------------------------------
 almalinux_8_8_arm64_cloud.tar.xz
 ------------------------------------------
 almalinux_8_8_arm64_default.tar.xz
@@ -63,6 +75,10 @@ almalinux_8_8_arm64_default.tar.xz
 almalinux_9_9_arm64_cloud.tar.xz
 ------------------------------------------
 almalinux_9_9_arm64_default.tar.xz
+------------------------------------------
+rockylinux_10_10_arm64_cloud.tar.xz
+------------------------------------------
+rockylinux_10_10_arm64_default.tar.xz
 ------------------------------------------
 rockylinux_8_8_arm64_cloud.tar.xz
 ------------------------------------------
@@ -87,6 +103,14 @@ fedora_39_39_arm64_default.tar.xz
 fedora_40_40_arm64_cloud.tar.xz
 ------------------------------------------
 fedora_40_40_arm64_default.tar.xz
+------------------------------------------
+fedora_43_43_arm64_cloud.tar.xz
+------------------------------------------
+fedora_43_43_arm64_default.tar.xz
+------------------------------------------
+fedora_44_44_arm64_cloud.tar.xz
+------------------------------------------
+fedora_44_44_arm64_default.tar.xz
 ------------------------------------------
 opensuse_15.4_15.4_arm64_cloud.tar.xz
 ------------------------------------------
@@ -120,9 +144,19 @@ alpine_3.20_3.20_arm64_cloud.tar.xz
 ------------------------------------------
 alpine_3.21_3.21_arm64_cloud.tar.xz
 ------------------------------------------
+alpine_3.21_3.21_arm64_default.tar.xz
+------------------------------------------
 alpine_3.22_3.22_arm64_cloud.tar.xz
 ------------------------------------------
+alpine_3.22_3.22_arm64_default.tar.xz
+------------------------------------------
 alpine_3.23_3.23_arm64_cloud.tar.xz
+------------------------------------------
+alpine_3.23_3.23_arm64_default.tar.xz
+------------------------------------------
+alpine_3.24_3.24_arm64_cloud.tar.xz
+------------------------------------------
+alpine_3.24_3.24_arm64_default.tar.xz
 ------------------------------------------
 alpine_edge_edge_arm64_cloud.tar.xz
 ------------------------------------------
@@ -148,7 +182,17 @@ openwrt_snapshot_snapshot_arm64_cloud.tar.xz
 ------------------------------------------
 openwrt_snapshot_snapshot_arm64_default.tar.xz
 ------------------------------------------
+oracle_10_10_arm64_cloud.tar.xz
+------------------------------------------
+oracle_10_10_arm64_default.tar.xz
+------------------------------------------
 oracle_8_8_arm64_cloud.tar.xz
+------------------------------------------
+oracle_8_8_arm64_default.tar.xz
+------------------------------------------
+oracle_9_9_arm64_cloud.tar.xz
+------------------------------------------
+oracle_9_9_arm64_default.tar.xz
 ------------------------------------------
 openeuler_20.03_20.03_arm64_cloud.tar.xz
 ------------------------------------------
