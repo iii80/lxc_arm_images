@@ -1,4 +1,4 @@
-Tue Oct 20 03:56:27 UTC 2026
+Wed Oct 21 03:46:14 UTC 2026
 ------------------------------------------
 ubuntu_18.04_bionic_arm64_cloud.tar.xz
 ------------------------------------------
@@ -27,6 +27,10 @@ ubuntu_24.04_noble_arm64_default.tar.xz
 ubuntu_26.04_resolute_arm64_cloud.tar.xz
 ------------------------------------------
 ubuntu_26.04_resolute_arm64_default.tar.xz
+------------------------------------------
+ubuntu_stonking_stonking_arm64_cloud.tar.xz
+------------------------------------------
+ubuntu_stonking_stonking_arm64_default.tar.xz
 ------------------------------------------
 debian_10_buster_arm64_cloud.tar.xz
 ------------------------------------------
