@@ -103,3 +103,5 @@ fedora_44_44_arm64_default.tar.xz
 fedora_44_44_arm64_cloud.tar.xz
 fedora_45_45_arm64_default.tar.xz
 fedora_45_45_arm64_cloud.tar.xz
+opensuse_16.1_16.1_arm64_default.tar.xz
+opensuse_16.1_16.1_arm64_cloud.tar.xz
