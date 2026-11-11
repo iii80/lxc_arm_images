@@ -66,6 +66,8 @@ opensuse_15.6_15.6_arm64_cloud.tar.xz
 opensuse_15.6_15.6_arm64_default.tar.xz
 opensuse_16.0_16.0_arm64_cloud.tar.xz
 opensuse_16.0_16.0_arm64_default.tar.xz
+opensuse_16.1_16.1_arm64_cloud.tar.xz
+opensuse_16.1_16.1_arm64_default.tar.xz
 opensuse_tumbleweed_tumbleweed_arm64_cloud.tar.xz
 opensuse_tumbleweed_tumbleweed_arm64_default.tar.xz
 alpine_3.16_3.16_arm64_cloud.tar.xz
